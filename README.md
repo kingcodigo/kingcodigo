@@ -1,3 +1,4 @@
+<div style="padding-left:50px">
 <br>
 <h1 align="left">Hi 👋  I'm Tobias Goral</h1>
 <h3 align="left">frontend developer from Germany, living in Barcelona 🏝🍹</h3>
@@ -68,7 +69,7 @@
 <a href="https://linkedin.com/in/tobias-goral-318753114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobias-goral-318753114" height="30" width="40" /></a>
 <a href="https://instagram.com/theoneandtobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theoneandtobi" height="30" width="40" /></a>
 </p>
-
+</div>
 <br>
 
 
