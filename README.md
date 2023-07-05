@@ -1,3 +1,4 @@
+<br>
 <h1 align="left">Hi 👋  I'm Tobias Goral</h1>
 <h3 align="left">frontend developer from Germany, living in Barcelona 🏝🍹</h3>
 <br>
