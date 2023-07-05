@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Ionic**
 
-- 👨‍💻 All of my projects are available at [info@tob-apps.com](info@tob-apps.com)
+- 👨‍💻 All of my projects are available at [tob-apps.com](tob-apps.com)
 
 - 💬 Ask me about **vue, html, css, js, sql**
 
