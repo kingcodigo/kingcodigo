@@ -3,19 +3,19 @@
 <h3 align="left">frontend developer from Germany, living in Barcelona 🏝🍹</h3>
 <br>
 
-- 🔭 I’m currently working on [vegan-map.com](vegan-map.com)
+- 🔭 I’m currently working on <a href="vegan.map.com" target="_blank">vegan-map.com</a>
 
 - 🌱 I’m currently learning **Ionic**
 
-- 👨‍💻 All of my projects are available at [tob-apps.com](tob-apps.com)
+- 👨‍💻 All of my projects are available at <a href="tob.apps.com" target="_blank">tob-apps.com</a>
 
 - 💬 Ask me about **vue, html, css, js, sql**
 
 - 📫 How to reach me **info@tob-apps.com**
 
-- 📄 Know about my experiences [cv.tob-apps.com](cv.tob-apps.com)
+- 📄 Know about my experiences <a href="cv.tob-apps.com" target="_blank">cv.tob-apps.com</a>
 
-
+<!-- [cv.tob-apps.com](cv.tob-apps.com) --!>
 
 <br>
 
