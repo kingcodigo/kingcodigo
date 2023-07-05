@@ -3,7 +3,7 @@
 <h3 align="left">frontend developer from Germany, living in Barcelona 🏝🍹</h3>
 <br>
 
-- 🔭 I’m currently working on [vegan.map.com](https://www.vegan-map.com)
+- 🔭 I’m currently working on [vegan-map.com](https://www.vegan-map.com)
 
 - 🌱 I’m currently learning **Ionic**
 
