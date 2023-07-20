@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [tob-apps.com](https://www.tob-apps.com) 
 
-- 💬 Ask me about **vue, html, css, js, sql**
+- 💬 Ask me about **vue, vue, vite, nuxt, bootstrap, html5, css, js, mongoDb, sql**
 
 - 📫 How to reach me **info@tob-apps.com**
 
