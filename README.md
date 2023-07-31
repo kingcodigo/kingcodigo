@@ -15,6 +15,8 @@
 - 📫 How to reach me **info@tob-apps.com**
 
 
+<!-- [tob-apps.com](tob-apps.com) --!>
+
 <br>
 
 <h3 align="left">Skills:</h3>
@@ -73,5 +75,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tobiasgoral1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tobiasgoral1" /></a></p><br>
-
-
