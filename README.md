@@ -14,9 +14,6 @@
 
 - 📫 How to reach me **info@tob-apps.com**
 
-- 📄 Know about my experiences [cv.tob-apps.com](https://cv.tob-apps.com)
-
-<!-- [cv.tob-apps.com](cv.tob-apps.com) --!>
 
 <br>
 
