@@ -68,7 +68,6 @@
 <a href="https://linkedin.com/in/tobias-goral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobias-goral" height="30" width="40" /></a>
 <a href="https://codepen.io/kingcodigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kingcodigo" height="30" width="40" /></a>
 
-<a href="https://instagram.com/theoneandtobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theoneandtobi" height="30" width="40" /></a>
 </p>
 </div>
 <br>
