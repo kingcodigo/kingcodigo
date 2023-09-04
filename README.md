@@ -6,15 +6,28 @@
 
 - 🔭 I’m currently working on [vegan-map.com](https://www.vegan-map.com)
 
-- 🌱 I’m currently learning **Ionic**
-
 - 👨‍💻 All of my projects are available at [tob-apps.com](https://www.tob-apps.com) 
 
 - 💬 Ask me about **vue, vuex, vite, nuxt, bootstrap, html5, css, js, mongoDb, sql**
 
 - 📫 How to reach me **info@tob-apps.com**
 
+- I have acquired the following technological knowledge:
 
+HTML5, CSS3, Sass, ITCSS, BEM, Bootstrap
+JavaScript ES6, jQuery
+SQL, Vue.js, React, Nodejs, PHP
+vuex, vite, nuxt
+Testing with Cypress
+
+ - In addition, I have knowledge of:
+
+Creation of a Progressive Web App (PWA) & Single Page Application (SPA)
+Creation of a REST API
+Interactive interface design
+SEO strategies
+Web accessibility
+Agile methodologies, SCRUM
 
 <!-- [cv.tob-apps.com](cv.tob-apps.com) --!>
 
