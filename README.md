@@ -10,22 +10,22 @@
 
 - 📫 How to reach me **info@tob-apps.com**
 
-- 🏆 I have acquired the following technological knowledge:
+- 🏆 I have acquired knowledge:
 
-  HTML5, CSS3, Sass, Bootstrap<br>
+  HTML5, CSS3, Sass, Bootstrap, Ionic<br>
   JavaScript ES6, TypeScript<br>
-  SQL, Vue.js, React, Nodejs, PHP<br>
-  vuex, vite, nuxt<br>
+  Vue.js, React, Nodejs, PHP, SQL<br>
+  vuex, vite, nuxt, Capacitor<br>
   Testing with Cypress<br>
 
 - 💬 In addition, I have knowledge of:
 
-    Creation of a Progressive Web App (PWA) & Single Page Application (SPA)<br>
+    Creation of a Single Page Application (SPA) & Progressive Web App (PWA)<br>
     Creation of a REST API<br>
-    Interactive interface design<br>
-    SEO strategies<br>
     Web accessibility<br>
     Agile methodologies, SCRUM<br>
+    Interactive interface design<br>
+    SEO strategies<br>
 
 <!-- [cv.tob-apps.com](cv.tob-apps.com) --!>
 
