@@ -14,20 +14,20 @@
 
 - I have acquired the following technological knowledge:
 
-  HTML5, CSS3, Sass, ITCSS, BEM, Bootstrap
-  JavaScript ES6, jQuery
-  SQL, Vue.js, React, Nodejs, PHP
-  vuex, vite, nuxt
-  Testing with Cypress
+  HTML5, CSS3, Sass, ITCSS, BEM, Bootstrap<br>
+  JavaScript ES6, jQuery<br>
+  SQL, Vue.js, React, Nodejs, PHP<br>
+  vuex, vite, nuxt<br>
+  Testing with Cypress<br>
 
  - In addition, I have knowledge of:
 
-  Creation of a Progressive Web App (PWA) & Single Page Application (SPA)
-  Creation of a REST API
-  Interactive interface design
-  SEO strategies
-  Web accessibility
-  Agile methodologies, SCRUM
+  Creation of a Progressive Web App (PWA) & Single Page Application (SPA)<br>
+  Creation of a REST API<br>
+  Interactive interface design<br>
+  SEO strategies<br>
+  Web accessibility<br>
+  Agile methodologies, SCRUM<br>
 
 <!-- [cv.tob-apps.com](cv.tob-apps.com) --!>
 
