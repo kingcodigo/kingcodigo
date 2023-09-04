@@ -8,11 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [tob-apps.com](https://www.tob-apps.com) 
 
-- 💬 Ask me about **vue, vuex, vite, nuxt, bootstrap, html5, css, js, mongoDb, sql**
-
 - 📫 How to reach me **info@tob-apps.com**
 
-- I have acquired the following technological knowledge:
+- 🏆 I have acquired the following technological knowledge:
 
   HTML5, CSS3, Sass, Bootstrap<br>
   JavaScript ES6, TypeScript<br>
@@ -20,7 +18,7 @@
   vuex, vite, nuxt<br>
   Testing with Cypress<br>
 
- - In addition, I have knowledge of:
+- 💬 In addition, I have knowledge of:
 
     Creation of a Progressive Web App (PWA) & Single Page Application (SPA)<br>
     Creation of a REST API<br>
