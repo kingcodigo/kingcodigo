@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **info@tob-apps.com**
 
-- 🏆 I have acquired knowledge:
+- 🏆 I have acquired:
 
   HTML5, CSS3, Sass, Bootstrap, Ionic<br>
   JavaScript ES6, TypeScript<br>
@@ -18,7 +18,7 @@
   vuex, vite, nuxt, Capacitor<br>
   Testing with Cypress<br>
 
-- 💬 In addition, I have knowledge of:
+- 💬 In addition, knowledge of:
 
     Creation of a Single Page Application (SPA) & Progressive Web App (PWA)<br>
     Creation of a REST API<br>
