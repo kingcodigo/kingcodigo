@@ -22,12 +22,12 @@
 
  - In addition, I have knowledge of:
 
-  Creation of a Progressive Web App (PWA) & Single Page Application (SPA)<br>
-  Creation of a REST API<br>
-  Interactive interface design<br>
-  SEO strategies<br>
-  Web accessibility<br>
-  Agile methodologies, SCRUM<br>
+    Creation of a Progressive Web App (PWA) & Single Page Application (SPA)<br>
+    Creation of a REST API<br>
+    Interactive interface design<br>
+    SEO strategies<br>
+    Web accessibility<br>
+    Agile methodologies, SCRUM<br>
 
 <!-- [cv.tob-apps.com](cv.tob-apps.com) --!>
 
