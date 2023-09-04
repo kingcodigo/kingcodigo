@@ -14,7 +14,7 @@
 
 - I have acquired the following technological knowledge:
 
-  HTML5, CSS3, Sass, ITCSS, BEM, Bootstrap<br>
+  HTML5, CSS3, Sass, Bootstrap<br>
   JavaScript ES6, jQuery<br>
   SQL, Vue.js, React, Nodejs, PHP<br>
   vuex, vite, nuxt<br>
