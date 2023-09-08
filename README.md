@@ -23,7 +23,6 @@
     Creation of a Single Page Application (SPA) & Progressive Web App (PWA)<br>
     Creation of a REST API<br>
     Web accessibility<br>
-    Agile methodologies, SCRUM<br>
     Interactive interface design<br>
     SEO strategies<br>
 
